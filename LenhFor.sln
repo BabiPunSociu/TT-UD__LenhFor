@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LenhFor", "LenhFor\LenhFor.pyproj", "{74F26DA0-6CB7-4D63-8B3F-E2F013278AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F26DA0-6CB7-4D63-8B3F-E2F013278AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F26DA0-6CB7-4D63-8B3F-E2F013278AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E290CBB8-445B-4CB9-A3ED-865A3292AFD7}
+	EndGlobalSection
+EndGlobal
